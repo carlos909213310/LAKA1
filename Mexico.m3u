@@ -1,0 +1,149 @@
+#EXTINF:-1 ,WOW TV www.ronnyjaguar
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1, Multimedios Monterrey | HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1, Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1,TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1,ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w2052122852.m3u8
+
+#EXTINF:-1,LOVE NATURE1
+https://bamus-spa-roku.amagi.tv/playlist720-lp.m3u8
+
+#EXTINF:-1,VISOF
+https://stream.oursnetworktv.com/latin/Visof/chunklist_w1259909172.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", LA 2
+https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", RT ESPANOL
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", CANAL 26 AGUASCALIENTES
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", LATINOS TV
+https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", VIDEOROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
+
+#EXTINF:-1,Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+
+#EXTINF:-1,Pluto TV Love Nature (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,Pluto TV MTV Tattoo A Dos (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain= % 7BAPP_DOMAIN% 7D & ads.app_name =% 7BAPP_NAME% 7D
+
+#EXTINF:-1,CANAL DE LAS ESTRELLAS WEN
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellanews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain= % 7BAPP_DOMAIN% 7D & ads.app_name =% 7BAPP_NAME% 7D
+
+#EXTINF:-1,EL CHAVO
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
+
+#EXTINF:-1,HIT 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
+#EXTINF:-1,COLOSAT TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1,LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF:-1,PortalFoxMix Tv
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+
+#EXTINF:-1,DJ Radio Guatemala
+http://ample-zeno-14.radiojar.com/ys6r013sbt5tv?rj-ttl=5&rj-token=AAABZfpfD--IoS4jlS0H3cMMt4NJ-_xxFLx8JbjTmE0f0SVcnsyuGA
+
+#EXTINF:-1,TELEMUNDO
+https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3252/stream/play.m3u8
+
+#EXTINF:-1,CANAL 3
+https://dslvfq5ee0geu.cloudfront.net/hls/canal3_480.m3u8
+
+#EXTINF:-1,CANAL 7
+https://dslvfq5ee0geu.cloudfront.net/hls/canal7_480.m3u8
+
+#EXTINF:-1,AZTECA GUATE
+https://w3ertgfdsawerty8765432qwsdfghjsaw4.tunelive.net:3451/stream/play.m3u8
+
+#EXTINF:-1,TN23
+https://dslvfq5ee0geu.cloudfront.net/hls/canal23_480.m3u8
+
+#EXTINF:-1,GUATEVISION
+https://prensalibre-live.cdn.vustreams.com/live/cd8f5328-7a1c-49d9-b318-9190858d1826/live.isml/live-audio_track_0_0_und=64000-video_track=3000000.m3u8
+
+#EXTINF:-1,CANAL SATA ROSA
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
+
+#EXTINF:-1,CANAL TV Tun Suchitepéquez
+https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8
+
+#EXTINF:-1,TVS
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1,SAS TV SAN ANTONIO
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+
+#EXTINF:-1,CANAL PLAY MEDIOS
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpgF36DtpWJVD-Kn6PkWo6yQ5N8MvzgXMGTQ0plCEFxTIyZAhvfmmfFuAk6YoP63dwOvz7-Dt-yFjXvqSYPT-EbFLhNOTcn4HOy_8E5Am3dyNL0XAfJc7aOhhbKAC084d2nSlvT1Em73PM2vu6d8fcw54lIojvb71T2jt2IQKilVphpWf0Li9gnG42wIlDL_iZEYywMSSXdB5spYHGg-jFsF2wEA-PHueTOn9ph0lhK6Q9lNwyOVUhh1UOJLPJ8-qz53RoSmgocH9-tIdsLr1PvrWcepCZIQ28p06TbKTaKcVMyi9XaCzimvtCIaZqPcgECOrjhFHkzm8pabJRE3QeYtVMQatlos9CeRb1hju7zIeMbova7GUAyFqAVkw0AIjygfeIlBMnVaVOi6w4cQoLIzfJ-yuhpPUaxfGvzVlE6YB3EPu0uyfdtV2_oB3l5dVg_fRupm9nbipJAZ3y5fJ4OxyZI942vQMPDEZz4GoNvMSYSAs8mD91GjJEln1NKNANMQIigaHlYZoulrSuTlG7KxE1XMSci9Psf7NyUNqv73JGDCuFxjFTfsrRaRIZDSPMN5fh0LF6g_fwiFyv1jzNsh06-vbhj1zY67HxWm6ClhF1kwhQOGgJ-kslQfQhZ9Y-x34qKhj0GoXjLdybkjTKY25ncCmpPVOeZT9WaLraTleLjHdv1vIrFHz-U8XmyKNy_had-iwsLnAN_eJfUxuAoilxekTj5QhRzcR5TScDb1mBnCjeOBHbzVVcATywKnEKEK9s0OVxEjMzKhEexIzcKs_GpItpRQTIRd-gr3xbOXXS1h-uCbVwmvHJ3m-wPsREybKfr8Z-QZedG0CcZgm414SyCpWL_4Acag4rh5Fxe9cbuATZEf7hCFIxoMF9i4C7A6iOvsnz9HIAEqCXVzLXdlc3QtMjC5BQ.m3u8
+
+#EXTINF:-1,CANAL TOTOVISION
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+#EXTINF:-1,CANAL GuaTv SOLOLA
+https://cdn.streamhispanatv.net:3589/live/guatvgtlive.m3u8
+
+#EXTINF:-1,CANAL TUNEVISION
+https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
+
+#EXTINF:-1,CANAL Esquipulas TV Chiquimula
+https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
+
+#EXTINF:-1,CANAL Telemax Escuintla
+https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
+
+#EXTINF:-1,CANAL  TV Chiquimula
+https://tv91.hostingnuclear.com:19360/amigostv/amigostv.m3u8
+
+#EXTINF:-1,CANAL Florencia TV Chimaltenango
+https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
+
+#EXTINF:-1,CANAL Telecosta Escuintla
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1,CANAL Nuevo Mundo Tv
+https://tvlatina.live:1936/8030/8030/chunklist_w27502416.m3u8
+
+#EXTINF:-1,CANAL Canal 9 Barberena Santa Rosa
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
